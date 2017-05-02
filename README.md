@@ -12,4 +12,4 @@ Under the Operations tabs you can see the effects of multithreading and non-mult
 
 Under the Analyze Tab see the effects of changing the threshold for each sorting method. 
 
-Download the taylor-sean.jar file to see the program live and in action!
+Download the Taylor-Sean.jar file to see the program live and in action!
